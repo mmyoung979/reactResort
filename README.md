@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Example React Project (Website for a hotel)
+
+This is project follows the tutorial from the [freecodecamp.org YouTube tutorial](https://www.youtube.com/watch?v=LXJOvkVYQqA)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
