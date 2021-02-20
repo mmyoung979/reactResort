@@ -1,6 +1,6 @@
 # Example React Project (Website for a hotel)
 
-This is project follows the tutorial from the [freecodecamp.org YouTube tutorial](https://www.youtube.com/watch?v=LXJOvkVYQqA)
+This is project follows the freecodecamp.org [YouTube tutorial](https://www.youtube.com/watch?v=LXJOvkVYQqA)
 
 ## Getting Started with Create React App
 
